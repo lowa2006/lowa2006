@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @lowa2006
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning ICT
--i'm looking to collabaorate on programming
-- 📫 I want to be a SOFTWARE EGINEER 
+- 👋 Hi, I’m @lowamina pigera
+-  I’m interested in coding
+-  I’m currently learning ethical hacking and cybersecurity
+-  I'm looking to collabaorate on programming
+
 
 <!---
 lowa2006/lowa2006 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
